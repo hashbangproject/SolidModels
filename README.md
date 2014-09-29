@@ -1,4 +1,4 @@
 SolidModels
 ===========
 
-SolidWorks modles for robot parts
+SolidWorks models for robot parts
