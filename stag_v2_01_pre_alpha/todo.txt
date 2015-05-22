@@ -4,6 +4,8 @@ Lower leg:
     make narrower to 4in
     make weight reduction cuts
     make the cut so that lower leg does not clip
+    move mount to the bottom of leg
+    make it longer properly
     make footprint
     add servo horn/clamp mount holes
     
