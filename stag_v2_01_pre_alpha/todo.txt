@@ -10,7 +10,6 @@ Lower leg:
     
 Upper leg:
     make into rectangle (1.5 x 3 inches)
-    change thickness to 0.125 (1/8) inches
     see clearance between upper leg and lower leg
     design and add weight reduction and ease of access holes
     add ball bearing mounting holes
