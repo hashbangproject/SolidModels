@@ -14,6 +14,7 @@ Upper leg:
     see clearance between upper leg and lower leg
     design and add weight reduction and ease of access holes
     add ball bearing mounting holes
+    center the servo on the legg, so it has symmetry
     
 Shoulder:
     redesign to use 4 in tubing
