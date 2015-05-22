@@ -1,0 +1,33 @@
+TODO:
+
+Lower leg:
+    make narrower to 4in
+    make weight reduction cuts
+    make footprint
+    add servo horn/clamp mount holes
+    
+Upper leg:
+    make into rectangle (1.5 x 3 inches)
+    change thickness to 0.125 (1/8) inches
+    see clearance between upper leg and lower leg
+    design and add weight reduction and ease of access holes
+    add ball bearing mounting holes
+    
+Shoulder:
+    redesign to use 4 in tubing
+    add the servo horn/clamp mount holes
+    make sure the clearance between the leg and hip is good
+
+Hip:
+    make this piece
+    just an elongated upper leg
+    also, needs to mount to spine
+    
+Spine:
+    add these parts
+    this connects the two hips together
+    add the needed mounting holes
+    
+Design:
+    servo horn/clamp mount holes
+    ball bearing mounting holes
